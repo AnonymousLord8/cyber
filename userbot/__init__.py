@@ -80,11 +80,11 @@ else:
     
 from userbot import ALIVE_NAME
 from userbot import DEFAULTUSER
-JAVES_MSG = (f"Javes ")
-ORI_MSG = (f"Hello Sir, I can't allow you to {ALIVE_NAME}'s PM without his permissions please be patient, Thankyou ")
-BLOCK_MSG = (f"I am not going to allow you to spam {DEFAULTUSER}'s PM, You have been blocked ")
+JAVES_MSG = (f"Lord's Servant ")
+ORI_MSG = (f"Hello There, If U Know My Boss Then Only Wait For His Msg Otherwise Please Go!!")
+BLOCK_MSG = (f"Please Dont Disturb My Respected Lord Sir{DEFAULTUSER}'s PM, You have been blocked ")
 JAVES_NNAME = str(JAVES_NAME) if JAVES_NAME else str(JAVES_MSG)
-AFK_MSG = (f"Hello Sir, {DEFAULTUSER} is offline Just leave Your message, Thankyou!")
+AFK_MSG = (f"Hello Sir, My Boss - Lord Sir Is Offline Or Busy, Just leave Your message, Thankyou!")
 BIO_MSG = (f"")
 ALIVE_S_MSG = (f"Iam Alive!")
 ALIVE_E_MSG = (f"Databases functioning normally!! ")
