@@ -1,7 +1,7 @@
 {
-  "name": "Javes",
-  "description": "Javes is a Telegram userbot that running on Python , It help you to manage your telegram easily ",
-  "logo": "https://i.imgur.com/ATSG4w3.png",
+  "name": "Anonympous Servant",
+  "description": "Anonymous Servant",
+  "logo": "https://telegra.ph/file/eeab7db7c5fc497e92f30.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,18 +9,18 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://t.me/javes05",
-  "website": "https://t.me/javes05",
-  "success_url": "https://t.me/rekcah05",
+  "repository": "Bye",
+  "website": "Bye",
+  "success_url": "Bye",
   "stack": "container",
   "env": {
     "TELEGRAM_API_KEY": {
       "description": "Get this value from my.telegram.org.[IMPORTANT]",
-      "value": "1754367"
+      "value": "1239613"
     },
     "TELEGRAM_API_HASH": {
       "description": "Get this value from my.telegram.org.[IMPORTANT]",
-      "value": "231b8cc6cca12ee51a85cf543321f476"
+      "value": "ef0c7de243ca1474db59355f5160e9fd"
     },
     "TELEGRAM_STRING_SESSION": {
       "description": "Get this value by running [python3 string_session.py] in Termux or heroku[IMPORTANT]"    
@@ -43,7 +43,7 @@
     },
     "COUNTRY": {
       "description": "Set your Country to be used in the !time and !date commands.",
-      "value": "Sri Lanka",
+      "value": "India",
       "required": false
     },
     "TZ_NUMBER": {
