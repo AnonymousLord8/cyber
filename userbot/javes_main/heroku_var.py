@@ -1,6 +1,6 @@
 import os
-cIient = "@pldhsys"
-cIientt = "@slvudu"
+cIient = "@LordBurner"
+cIientt = "@LordBurner"
 import asyncio
 from sys import version_info
 from logging import *
